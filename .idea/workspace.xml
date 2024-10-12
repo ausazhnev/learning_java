@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9395b7a9-841b-49e8-9698-735d664d488a" name="Changes" comment="Определение нескольких обектов класса.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9395b7a9-841b-49e8-9698-735d664d488a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728720121248</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fixup! Revert &quot;Определение нескольких объектов класса.&quot;">
+      <option name="closed" value="true" />
+      <created>1728720475460</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728720475460</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +133,9 @@
     <MESSAGE value="Создание первого класса" />
     <MESSAGE value="песенка про бутылки v 1" />
     <MESSAGE value="Определение нескольких обектов класса." />
-    <option name="LAST_COMMIT_MESSAGE" value="Определение нескольких обектов класса." />
+    <MESSAGE value="Revert &quot;Определение нескольких объектов класса.&quot;&#10;&#10;This reverts commit 8c911a06debc0dade46cdf93a14f66d6cadae759." />
+    <MESSAGE value="Revert &quot;Определение нескольких объектов класса.&quot;&#10;&#10;This reverts commit 8c911a06debc0dade46cdf93a14f66d6cadae759." />
+    <MESSAGE value="fixup! Revert &quot;Определение нескольких объектов класса.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixup! Revert &quot;Определение нескольких объектов класса.&quot;" />
   </component>
 </project>
