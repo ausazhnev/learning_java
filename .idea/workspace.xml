@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9395b7a9-841b-49e8-9698-735d664d488a" name="Changes" comment="Определение нескольких объектов класса.">
-      <change afterPath="$PROJECT_DIR$/src/GameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoodDog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,24 +23,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ausazhnev"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ausazhnev&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/ausazhnev/learning_java.git",
-    "accountId": "d56f3d0f-06d2-43f9-8d38-4284867e6bd1"
+    "accountId": "203bce57-00bf-40c9-847b-1e42b426dbdb"
   }
 }]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2nK3rLdcv0bTSCtJlrb4pR4GCQQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.GameLauncher.executor": "Run",
+    "Application.GoodDogTest.executor": "Run",
     "Application.Hello_world.executor": "Run",
     "Application.MovieTestDrive.executor": "Run",
     "Application.beer_song.executor": "Run",
